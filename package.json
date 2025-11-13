@@ -1,5 +1,5 @@
 {
-    "name": "easyjs-utils",
+    "name": "@marcocelia/easyjs-utils",
     "version": "1.0.0",
     "description": "Libreria leggera di utility JavaScript per manipolazione DOM, eventi e classi CSS.",
     "main": "dist/easy.min.js",
