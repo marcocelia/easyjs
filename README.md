@@ -185,8 +185,8 @@ npm run build
 ## 🧑‍💻 Autore
 
 **Il Tuo Nome**
-📧 [tua@email.com](mailto:tua@email.com)
-🌐 [https://github.com/tuonome/easyjs](https://github.com/tuonome/easyjs)
+📧 [marcoem.celia@gmail.com](mailto:marcoem.celia@gmail.com)
+🌐 [https://github.com/marcocelia/easyjs](https://github.com/marcocelia/easyjs)
 
 ---
 
