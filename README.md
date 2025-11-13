@@ -22,7 +22,7 @@ Perfetta per progetti in **Vanilla JS** o come **base utility** per piccoli scri
 ### 🔹 via npm
 
 ```bash
-npm install easyjs-utils
+npm install @marcocelia/easyjs-utils
 ```
 
 Nel tuo progetto:
@@ -40,12 +40,12 @@ easy.onReady(() => {
 
 **jsDelivr**
 ```html
-<script src="https://cdn.jsdelivr.net/npm/easyjs-utils@1.0.0/dist/easy.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@marcocelia/easyjs-utils@1.0.0/dist/easy.min.js"></script>
 ```
 
 **unpkg**
 ```html
-<script src="https://unpkg.com/easyjs-utils@1.0.0/dist/easy.min.js"></script>
+<script src="https://unpkg.com/@marcocelia/easyjs-utils@1.0.0/dist/easy.min.js"></script>
 ```
 
 Una volta inclusa, la libreria è disponibile globalmente come `easy`.
