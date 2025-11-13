@@ -1,0 +1,36 @@
+{
+    "name": "easyjs-utils",
+    "version": "1.0.0",
+    "description": "Libreria leggera di utility JavaScript per manipolazione DOM, eventi e classi CSS.",
+    "main": "dist/easy.min.js",
+    "module": "src/easy.js",
+    "files": [
+        "dist"
+    ],
+    "scripts": {
+        "build": "npx terser src/easy.js -o dist/easy.min.js --compress --mangle",
+        "prepublishOnly": "npm run build"
+    },
+    "keywords": [
+        "dom",
+        "javascript",
+        "utility",
+        "helper",
+        "vanilla-js",
+        "frontend",
+        "cdn"
+    ],
+    "author": "Il Tuo Nome <tua@email.com>",
+    "license": "MIT",
+    "homepage": "https://github.com/marcocelia/easyjs#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/marcocelia/easyjs.git"
+    },
+    "bugs": {
+        "url": "https://github.com/marcocelia/easyjs/issues"
+    },
+    "devDependencies": {
+        "terser": "^5.36.0"
+    }
+}
